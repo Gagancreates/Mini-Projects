@@ -14,5 +14,5 @@ A simple weather application that fetches real-time weather data using the OpenW
 
 
 ## 🔧 Installation  
-Clone this repo and run:  
+Clone this repo locally and run it on your browser.
 
